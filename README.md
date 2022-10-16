@@ -15,7 +15,7 @@ Steps it does this:
 
 5. Takes the output edited video and uploads it to youtube using the youtube data API.
 
-7. (working on this) Connects to the Ayrshare API to upload the video to tiktok on my behalf becasue I don't think I can get an official API key.
+7. (working on this) Connects to the Ayrshare API to upload the video to tiktok on my behalf becasue I don't think I can get an official API key. (outputs {"action":"post","status":"error","code":162,"message":"Missing post parameter. Please verify a non-empty post field is sent. https://docs.ayrshare.com/rest-api/endpoints/post"} for saome reason.
 
 9. Specifies that the clip has been uploaded in the spreadsheet so it doesn't select it again.
 
