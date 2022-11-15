@@ -7,7 +7,7 @@ Steps it does this:
 
 1. Connects to a spreadsheet of twitch clips I have
 
-2. Filters throuh them to select a ransom one that isn't uploaded yet and also wasn't blacklisted by me to not be uploaded automatically.
+2. Filters throuh them to select a random one that isn't uploaded yet and also wasn't blacklisted by me to not be uploaded automatically.
 
 3. Gets the clip info using the twitch API and outputs an array with the clip title, duration, and raw video link.
 
